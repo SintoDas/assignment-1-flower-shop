@@ -1,6 +1,10 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Handlee", cursive;
+  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 /* shared sytle */
 .btn {
@@ -44,4 +48,45 @@
   font-weight: 400;
   width: 50%;
   margin-bottom: 20px;
+}
+/* deal-container */
+.deal-container {
+  height: 620px;
+  background-image: url("../images/pngwing\ 8.png");
+  background-repeat: no-repeat;
+  background-position: center right;
+
+  /* center left
+  bottom left 
+  top right
+  bottom right
+  top center
+  center center
+  bottom center*/
+  /* it in mind center right */
+  align-items: center;
+  background-size: contain;
+  display: flex;
+  justify-content: center;
+}
+
+.deal-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+}
+.deal-container {
+  text-align: center;
+  padding: 20px;
+}
+.deal-description {
+  width: 60%;
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 120px;
 }
