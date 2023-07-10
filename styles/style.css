@@ -55,19 +55,11 @@
   background-image: url("../images/pngwing\ 8.png");
   background-repeat: no-repeat;
   background-position: center right;
-
-  /* center left
-  bottom left 
-  top right
-  bottom right
-  top center
-  center center
-  bottom center*/
-  /* it in mind center right */
   align-items: center;
   background-size: contain;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  background: rgba(229, 84, 115, 0.05);
 }
 
 .deal-title {
@@ -89,4 +81,31 @@
   margin-top: 20px;
   margin-bottom: 20px;
   padding-left: 120px;
+  gap: 5px;
+}
+/* instagram section */
+.images {
+  display: flex;
+  margin-top: 20px;
+  background: #fff;
+}
+.image {
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+}
+.instagram-title {
+  margin-top: 120px;
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.instagram-deccription {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+  padding: 10px;
 }
