@@ -223,11 +223,11 @@ ul li a {
 .images {
   display: flex;
   gap: 24px;
-}
-.img-1 {
-  width: 350px;
-  height: 200px;
   margin: 0 auto;
+}
+.image {
+  width: 300px;
+  height: 200px;
 }
 .instagram-title {
   padding: 20px;
