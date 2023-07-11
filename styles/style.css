@@ -231,6 +231,7 @@ ul li a {
 .image {
   width: 300px;
   height: 200px;
+  margin: 10px;
 }
 .instagram-title {
   padding: 20px;
