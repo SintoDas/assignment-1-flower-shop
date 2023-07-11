@@ -109,6 +109,7 @@ ul li a {
   justify-content: center;
   background: #fff;
   gap: 50px;
+  padding: 50px;
 }
 .fancy-img-1 {
   width: 464px;
