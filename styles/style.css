@@ -184,11 +184,11 @@ ul li a {
     url("../images/pngwing\ 8.png"); */
   background-image: url("../images/pngwing\ 8.png");
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: top right;
   align-items: center;
   background-size: contain;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   padding-bottom: 100px;
   gap: 10px;
 }
