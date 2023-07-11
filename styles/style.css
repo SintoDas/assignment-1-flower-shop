@@ -214,9 +214,9 @@ ul li a {
 /* instagram section */
 .instagram-container {
   background: #fff;
-  height: 150px;
-  margin-right: 100px;
-  margin-left: 100px;
+  height: 200px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 .images {
   display: flex;
