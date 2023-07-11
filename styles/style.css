@@ -221,7 +221,7 @@ ul li a {
   margin-left: 100px;
 }
 .images {
-  height: max-content;
+  height: 400px;
   display: flex;
   justify-content: space-between;
   gap: 10px;
