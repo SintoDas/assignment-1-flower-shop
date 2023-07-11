@@ -17,13 +17,40 @@
   border: 0;
   padding: 20px 40px;
 }
+/* header section */
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  align-items: center;
+  padding: 20px;
+  background-color: gray;
+}
+.logo-img {
+  width: 200px;
+  height: 5cqb;
+}
+ul {
+  display: flex;
+  gap: 20px;
+}
+ul li {
+  list-style: none;
+  text-transform: uppercase;
+}
+ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+
 /* Banner  */
 .banner-container {
   height: 100vh;
   background-color: rgba(229, 84, 115, 0.1);
   background-image: url("../images/pngwing\ 10.png");
   background-repeat: no-repeat;
-  background-position: bottom 0px right 200px;
+  background-position: top 10px right 200px;
   background-size: contain;
   align-items: center;
   display: flex;
