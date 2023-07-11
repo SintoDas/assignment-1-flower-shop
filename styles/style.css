@@ -161,9 +161,10 @@ ul li a {
   align-items: center;
   justify-content: space-around;
   padding: 20px;
-  margin-bottom: 100px;
+  margin-top: 100px;
   margin-left: 150px;
   margin-right: 150px;
+  margin-bottom: 100px;
 }
 .person-img {
   margin-left: 50px;
