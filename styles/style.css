@@ -2,7 +2,6 @@
   padding: 0;
   margin: 0;
   font-family: "Fira Sans", sans-serif;
-  font-family: "Handlee", cursive;
   font-family: "Lato", sans-serif;
   font-family: "Roboto", sans-serif;
 }
@@ -55,12 +54,12 @@ ul li a {
   background-color: rgba(229, 84, 115, 0.1);
   background-image: url("../images/pngwing\ 10.png");
   background-repeat: no-repeat;
-  background-position: top 10px right 200px;
+  background-position: bottom 0px right 180px;
   background-size: contain;
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding-top: 50px;
+  padding: 50px;
 }
 .special-offer {
   color: #e55473;
@@ -70,19 +69,17 @@ ul li a {
 .banner-description {
   padding-top: 180px;
   padding-left: 240px;
-  margin-right: 97px;
+  margin-right: 90px;
 }
 
 .banner-title {
   color: #272727;
-  font-family: Lato;
   font-size: 80px;
   font-weight: 800;
   margin-bottom: 20px;
 }
 .flower-para {
   color: rgba(39, 39, 39, 0.6);
-  font-family: Lato;
   font-size: 18px;
   font-weight: 400;
   width: 50%;
@@ -96,7 +93,7 @@ ul li a {
   color: #272727;
   font-size: 40px;
   font-weight: 800;
-  padding: 50x;
+  padding: 50px;
   margin-top: 100px;
 }
 .fancy-description {
@@ -114,26 +111,26 @@ ul li a {
   background: #fff;
 }
 .fancy-img-1 {
-  width: 464px;
-  height: 538px;
+  width: 460px;
+  height: 530px;
   border-radius: 49% 52% 46% 45% / 30% 31% 0% 0%;
   background: rgba(167, 33, 98, 0.15);
 }
 .fancy-img-2 {
-  width: 464px;
-  height: 538px;
+  width: 460px;
+  height: 530px;
   border-radius: 49% 52% 46% 45% / 30% 31% 0% 0%;
   background: rgba(5, 151, 160, 0.15);
 }
 .fancy-img-3 {
-  width: 464px;
-  height: 538px;
+  width: 460px;
+  height: 530px;
   border-radius: 49% 52% 46% 45% / 30% 31% 0% 0%;
   background: rgba(71, 125, 17, 0.15);
 }
 .fancy-images img {
-  width: 150;
-  height: 150;
+  width: 80%;
+  height: 80%;
 }
 
 .img-1 {
@@ -200,7 +197,6 @@ ul li a {
 
 .deal-title {
   color: #272727;
-  font-family: Lato;
   font-size: 40px;
   font-weight: 800;
 }
@@ -228,7 +224,7 @@ ul li a {
 }
 .images {
   display: flex;
-  gap: 24;
+  gap: 24px;
 }
 .image {
   width: 350px;
