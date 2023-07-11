@@ -211,9 +211,11 @@ ul li a {
   font-family: Lato;
   font-size: 18px;
   font-weight: 400;
-  padding-left: 70px;
+  padding: 70px;
   text-align: center;
-  margin-bottom: 20px;
+}
+.btn-signUp {
+  padding: 10px;
 }
 /* instagram section */
 .instagram-container {
