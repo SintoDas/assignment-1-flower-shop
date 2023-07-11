@@ -184,15 +184,17 @@ ul li a {
     url("../images/pngwing\ 8.png"); */
   background-image: url("../images/pngwing\ 8.png");
   background-repeat: no-repeat;
-  background-position: center right 50px;
+  background-position: bottom right;
   align-items: center;
   background-size: contain;
   display: flex;
   justify-content: space-around;
   padding-bottom: 100px;
-  gap: 100px;
+  gap: 10px;
 }
-
+.special-offer {
+  color: #e55473;
+}
 .deal-title {
   color: #272727;
   font-size: 40px;
