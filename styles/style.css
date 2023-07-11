@@ -54,7 +54,7 @@ ul li a {
   background-color: rgba(229, 84, 115, 0.1);
   background-image: url("../images/pngwing\ 10.png");
   background-repeat: no-repeat;
-  background-position: bottom 0px left 180px;
+  background-position: bottom 0px right 180px;
   background-size: contain;
   align-items: center;
   display: flex;
