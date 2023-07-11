@@ -221,9 +221,10 @@ ul li a {
   margin-left: 100px;
 }
 .images {
+  height: max-content;
   display: flex;
-  gap: 24px;
-  margin: 0 auto;
+  justify-content: space-between;
+  gap: 10px;
 }
 .image {
   width: 300px;
