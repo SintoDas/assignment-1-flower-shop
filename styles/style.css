@@ -208,20 +208,17 @@ ul li a {
   font-family: Lato;
   font-size: 18px;
   font-weight: 400;
-  margin-top: 20px;
-  margin-bottom: 20px;
   padding-left: 70px;
   text-align: center;
 }
 /* instagram section */
 .instagram-container {
   background: #fff;
-  height: 250px;
+  height: 150px;
   margin-right: 100px;
   margin-left: 100px;
 }
 .images {
-  height: 400px;
   display: flex;
   justify-content: space-between;
   gap: 10px;
@@ -250,17 +247,18 @@ ul li a {
 }
 /* customer information  */
 .customer-container {
-  height: 100vh;
+  /* height: 100vh; */
+  height: 600px;
   background-image: url("../images/Rectangle\ 9.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  margin-top: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-left: 100px;
   margin-right: 100px;
+  margin-bottom: 100px;
 }
 label {
   position: relative;
