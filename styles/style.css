@@ -59,17 +59,16 @@ ul li a {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding: 50px;
+  gap: 25px;
 }
-.special-offer {
+/* .special-offer {
   color: #e55473;
   font-size: 40px;
   font-weight: 800;
-}
+} */
 .banner-description {
-  padding-top: 180px;
-  padding-left: 240px;
-  margin-right: 90px;
+  padding-top: 100px;
+  margin-left: 90px;
 }
 
 .banner-title {
@@ -226,7 +225,7 @@ ul li a {
   display: flex;
   gap: 24px;
 }
-.image {
+.img-1 {
   width: 350px;
   height: 200px;
   margin: 0 auto;
